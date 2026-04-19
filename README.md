@@ -1,1 +1,0 @@
-# first-repo-SoftUni-QA
