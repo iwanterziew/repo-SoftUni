@@ -11,10 +11,14 @@
             "id": "b8cceac116ecb8d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "DNS Dumpster abv.bg/ssh SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.12httpunknownhttps unknown servercnpipenetwork.org.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ssh SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.12httpunknownhttps unknown servercnpipenetwork.org"
             }
           }
         ]
@@ -180,10 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6349d16ea13db406",
+  "active": "b8cceac116ecb8d7",
   "lastOpenFiles": [
+    "DNS Dumpster abv.bg/ssh SSH-2.0-OpenSSH_9.6p1 Ubuntu-3ubuntu13.12httpunknownhttps unknown servercnpipenetwork.org.md",
     "Untitled.md",
-    "Untitled",
+    "DNS Dumpster abv.bg",
     "test/Test 123.md",
     "Бечо и Бечко.md",
     "README.md",
